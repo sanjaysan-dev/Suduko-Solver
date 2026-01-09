@@ -1,6 +1,7 @@
 # Sudoku Solver in Java
 
-<img width="1278" height="729" alt="Screenshot1 (2964)" src="https://github.com/user-attachments/assets/5b2d22ed-a426-4d3b-8139-11fb90fab3ca" />
+<img width="1278" height="729" alt="Screenshot1 (2964)" src="https://github.com/user-attachments/assets/ec0402fd-e161-4d2a-9fab-818705c52438" />
+
 
 
 
